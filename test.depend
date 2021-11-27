@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1637970665 source:c:\cards\test\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"pelicula.h"
+	"parser.h"
+	"Controller.h"
+	"inputsValidados.h"
+	"menus.h"
+	<string.h>
+	<dirent.h>
+
+1637966424 source:c:\cards\test\inputsvalidados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"inputsValidados.h"
+
+1637965973 source:c:\cards\test\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1637970738 source:c:\cards\test\menus.c
+	<stdlib.h>
+	<stdio.h>
+	"inputsValidados.h"
+	"menus.h"
+
+1637966376 source:c:\cards\test\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"pelicula.h"
+
+1637971037 source:c:\cards\test\pelicula.c
+	"pelicula.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1637971075 c:\cards\test\pelicula.h
+
+1637965991 c:\cards\test\linkedlist.h
+
+1637970404 source:c:\cards\test\main.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"pelicula.h"
+	"menus.h"
+	"parser.h"
+
+1637969284 c:\cards\test\controller.h
+	"pelicula.h"
+	"LinkedList.h"
+
+1637966094 c:\cards\test\menus.h
+
+1637966242 c:\cards\test\parser.h
+
+1637966454 c:\cards\test\inputsvalidados.h
+
